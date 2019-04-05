@@ -1,0 +1,84 @@
+N = 300000
+Cantidad de objetos metidos: 2
+Tiempo requerido = 1.106 segundos
+--------------------------
+N = 310000
+Cantidad de objetos metidos: 2
+Tiempo requerido = 1.065 segundos
+--------------------------
+N = 320000
+Cantidad de objetos metidos: 2
+Tiempo requerido = 1.118 segundos
+--------------------------
+N = 330000
+Cantidad de objetos metidos: 2
+Tiempo requerido = 1.184 segundos
+--------------------------
+N = 340000
+Cantidad de objetos metidos: 2
+Tiempo requerido = 1.164 segundos
+--------------------------
+N = 350000
+Cantidad de objetos metidos: 2
+Tiempo requerido = 1.207 segundos
+--------------------------
+N = 360000
+Cantidad de objetos metidos: 2
+Tiempo requerido = 1.359 segundos
+--------------------------
+N = 370000
+Cantidad de objetos metidos: 2
+Tiempo requerido = 1.351 segundos
+--------------------------
+N = 380000
+Cantidad de objetos metidos: 2
+Tiempo requerido = 1.286 segundos
+--------------------------
+N = 390000
+Cantidad de objetos metidos: 2
+Tiempo requerido = 1.369 segundos
+--------------------------
+N = 400000
+Cantidad de objetos metidos: 2
+Tiempo requerido = 1.412 segundos
+--------------------------
+N = 410000
+Cantidad de objetos metidos: 2
+Tiempo requerido = 1.486 segundos
+--------------------------
+N = 420000
+Cantidad de objetos metidos: 2
+Tiempo requerido = 1.478 segundos
+--------------------------
+N = 430000
+Cantidad de objetos metidos: 2
+Tiempo requerido = 1.464 segundos
+--------------------------
+N = 440000
+Cantidad de objetos metidos: 2
+Tiempo requerido = 1.556 segundos
+--------------------------
+N = 450000
+Cantidad de objetos metidos: 2
+Tiempo requerido = 1.6 segundos
+--------------------------
+N = 460000
+Cantidad de objetos metidos: 2
+Tiempo requerido = 1.665 segundos
+--------------------------
+N = 470000
+Cantidad de objetos metidos: 2
+Tiempo requerido = 1.758 segundos
+--------------------------
+N = 480000
+Cantidad de objetos metidos: 2
+Tiempo requerido = 1.712 segundos
+--------------------------
+N = 490000
+Cantidad de objetos metidos: 2
+Tiempo requerido = 1.704 segundos
+--------------------------
+N = 500000
+Cantidad de objetos metidos: 2
+Tiempo requerido = 1.756 segundos
+--------------------------
